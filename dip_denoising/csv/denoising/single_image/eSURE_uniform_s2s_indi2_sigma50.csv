@@ -1,0 +1,2 @@
+,max_psnr,max_ssim,NUM_Backtracking,max_step,max_psnr_avg,max_lpips_avg,max_lpips,final_ep,final_psnr,final_psnr_avg,final_lpips_avg,final_lpips,time_consume
+image_F16_512rgb.png,27.810180713717383,0,6,348,27.87143037431914,0.34471410512924194,0.38685378432273865,2999,6.145385099916774,6.145386809107491,0.8592241406440735,0.8588078022003174,1002.2748382091522

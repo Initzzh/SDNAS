@@ -1,0 +1,2 @@
+,max_psnr,max_ssim,NUM_Backtracking,max_step,max_psnr_avg,max_lpips_avg,max_lpips,final_ep,final_psnr,final_psnr_avg,final_lpips_avg,final_lpips
+image_Lena512rgb.png,32.05146371845552,0,0,1209,32.01488828237284,0.1229613646864891,0.12984436750411987,2241,30.17243004590407,31.987670753458207,0.10138074308633804,0.1263338029384613

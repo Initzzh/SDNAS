@@ -1,0 +1,2 @@
+,0
+0,"{'net_indi': 'indi_scale', 'max_psnr': 30.071941375732422, 'max_ssim': 0, 'NUM_Backtracking': 0, 'max_avg_psnr': 30.34465980529785, 'max_step': 556, 'max_psnr_avg': 30.26006507873535, 'max_avg_step': 647, 'final_ep': 836, 'final_psnr': 28.035621643066406, 'final_psnr_avg': 30.018102645874023, 'consume_time': 218.02171564102173}"
