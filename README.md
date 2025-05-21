@@ -1,2 +1,2 @@
-# DnNAS
-NAS for Denoise
+# SDNAS
+NAS for Self-supervised Single Image Denoising
